@@ -1,3 +1,3 @@
 # encode_solidity_bootcamp
 
-All Solidity code and projects will be included here. 
+All Encode Solidity Bootcamp weekly proects in here.
